@@ -1,6 +1,6 @@
 let string1 = "Morten";
 let string2 = "Bergen";
-let string3 = "Stord";
+let string3 = "Game developer";
 
 let integer1 = "35";
 let integer2 = "1989";
