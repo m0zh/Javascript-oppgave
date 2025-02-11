@@ -6,15 +6,15 @@ let integer1 = "35";
 let integer2 = "1989";
 
 let favGames = {
-  1: "Witcher 3",
-  2: "World of warcraft",
-  3: "Elden ring",
+  favGame1: "Witcher 3",
+  favGame2: "World of warcraft",
+  favGame3: "Elden ring",
 };
 
 let hobbies = {
-  1: "Gaming",
-  2: "Golf",
-  3: "Workout",
+  Hobby1: "Gaming",
+  Hobby2: "Golf",
+  Hobby3: "Workout",
 };
 
 let array1 = ["Pære, Appelsin, Eple, Kiwi"];
